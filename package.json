@@ -1,0 +1,16 @@
+{
+  "name": "excel_parser",
+  "version": "1.0.0",
+  "description": "Obtain data from excel file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "exceljs": "^0.2.4"
+  }
+}
